@@ -30,7 +30,7 @@ class Feedback extends Component {
           { assertions }
         </h2>
         <Link to="/">
-          <button type="button" data-testid="btn-play-again">Jogar Novamente</button>
+          <button type="button" data-testid="btn-play-again"> Jogar Novamente </button>
         </Link>
         <Link to="/ranking">
           <button type="button" data-testid="btn-ranking">Ver Ranking</button>
