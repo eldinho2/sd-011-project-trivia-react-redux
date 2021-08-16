@@ -8,11 +8,17 @@
 }
 
 .red-border {
-  border: 1px solid red;
+  border: 3px solid red;
+  border-style: hidden;
 }
 
 .green-border {
-  border: 1px solid green;
+  border: 3px solid rgb(6, 240, 15);
+  border-style: hidden;
+}
+
+.revel-color {
+  border-style: solid;
 }
 
 @media ( prefers-reduced-motion : no-preference ) {
